@@ -1,0 +1,39 @@
+# Archivos generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Configuración local de los editores
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos del sistema y credenciales locales
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Exportaciones de Unity
+*.unitypackage
+sysinfo.txt
